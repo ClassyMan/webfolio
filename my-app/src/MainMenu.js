@@ -27,7 +27,6 @@ class MainMenu extends Component {
     this.setState({showSkills: this.toggle(this.state.showSkills)})
   }
 
-
   /**
    * Render the menu
    *
